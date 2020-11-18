@@ -21,7 +21,7 @@ public class Main {
         Products.add(new Product(1,"Lenovo Legion","002352411452","Lenovo", 1020,2,10));
         Products.add(new Product(2,"Lenovo thinkpad t14","0036003423452","Lenovo", 2320,4,9));
         Products.add(new Product(3,"Asus rog zephyrus g14","00360432452","Asus", 3243,1,12));
-        Products.add(new Product(4,"HP omen 15","0053000234452","Lenovo", 2754,3,4));
+        Products.add(new Product(4,"HP Omen 15","0053000234452","Lenovo", 2754,3,4));
 
         printProducts(Products);
 
